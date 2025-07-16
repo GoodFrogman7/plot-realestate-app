@@ -1,4 +1,4 @@
-# 🏠 Plot Real Estate App
+# 🏠 Plot Real Estate 
 
 Your story begins here.  
 A culturally inspired housing discovery app for Indian college students and Gen Z professionals looking to find and share places that feel like home.
